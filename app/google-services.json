@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383972224203",
+    "project_id": "aplicativo-f977c",
+    "storage_bucket": "aplicativo-f977c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383972224203:android:12b0a9a3b62d4317917f4e",
+        "android_client_info": {
+          "package_name": "com.example.trabalho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe6aG8vdEYY5g_6hVlxqhD3v83sBf-0sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
