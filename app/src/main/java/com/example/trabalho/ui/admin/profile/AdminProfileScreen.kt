@@ -92,7 +92,7 @@ fun AdminProfileScreen(
             ) { Text("Redefinir Senha via E-mail") }
 
             OutlinedButton(
-                onClick = { uriHandler.openUri("https://github.com/jogustto") },
+                onClick = { uriHandler.openUri("https://github.com/joaottlf/app-locadora-games") },
                 modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp),
                 colors = ButtonDefaults.outlinedButtonColors(contentColor = MaterialTheme.colorScheme.tertiary) // Azul Informativo
             ) { Text("Ajuda / Suporte Técnico") }
